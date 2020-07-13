@@ -18,4 +18,4 @@ Site da aplicação estará disponível em [localhost:8080](http://localhost:808
 
 Documentação da Api estará disponível em [localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
-<img src="https://github.com/Zeldsc/ecommerce-checkout/blob/master/src/main/resources/documentos/modelo.png" data-canonical-src="https://github.com/Zeldsc/ecommerce-checkout/blob/master/src/main/resources/documentos/modelo.png" height="100%"
+<img src="https://github.com/Zeldsc/ecommerce-checkout/blob/master/src/main/resources/documentos/modelo.png" data-canonical-src="https://github.com/Zeldsc/ecommerce-checkout/blob/master/src/main/resources/documentos/modelo.png" height="100%">
